@@ -27,7 +27,7 @@
             <div class="container">
                 <h3 class="mx-auto text-center">  
                     <a class="nav-link text-center" href="{{ route('client.test') }}">
-                        {{ __('Start Test') }}
+                        {{ __('LMS Quiz') }}
                     </a></h3>
                 <h5 class="mx-auto text-center d-flex">  
                     @auth
